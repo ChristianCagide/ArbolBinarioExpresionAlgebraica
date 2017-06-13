@@ -1,0 +1,27 @@
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\Estructura de Datos\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.exe.config
+C:\Users\20127382\Desktop\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.exe.config
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\Estructura de Datos\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.exe
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\Estructura de Datos\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.pdb
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\Estructura de Datos\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.csprojResolveAssemblyReference.cache
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\Estructura de Datos\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.Form1.resources
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\Estructura de Datos\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.Properties.Resources.resources
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\Estructura de Datos\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.csproj.GenerateResource.Cache
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\Estructura de Datos\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.exe
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\Estructura de Datos\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.pdb
+C:\Users\20127382\Desktop\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.exe
+C:\Users\20127382\Desktop\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.pdb
+C:\Users\20127382\Desktop\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.exe
+C:\Users\20127382\Desktop\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.pdb
+C:\Users\20127382\Desktop\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.csprojResolveAssemblyReference.cache
+C:\Users\20127382\Desktop\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.Form1.resources
+C:\Users\20127382\Desktop\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.Properties.Resources.resources
+C:\Users\20127382\Desktop\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.csproj.GenerateResource.Cache
+C:\Users\chris\Desktop\Software\ArbolBinarioExpAlg\ArbolBinario\bin\Debug\ArbolBinario.exe.config
+C:\Users\chris\Desktop\Software\ArbolBinarioExpAlg\ArbolBinario\bin\Debug\ArbolBinario.exe
+C:\Users\chris\Desktop\Software\ArbolBinarioExpAlg\ArbolBinario\bin\Debug\ArbolBinario.pdb
+C:\Users\chris\Desktop\Software\ArbolBinarioExpAlg\ArbolBinario\obj\Debug\ArbolBinario.csprojResolveAssemblyReference.cache
+C:\Users\chris\Desktop\Software\ArbolBinarioExpAlg\ArbolBinario\obj\Debug\ArbolBinario.Form1.resources
+C:\Users\chris\Desktop\Software\ArbolBinarioExpAlg\ArbolBinario\obj\Debug\ArbolBinario.Properties.Resources.resources
+C:\Users\chris\Desktop\Software\ArbolBinarioExpAlg\ArbolBinario\obj\Debug\ArbolBinario.csproj.GenerateResource.Cache
+C:\Users\chris\Desktop\Software\ArbolBinarioExpAlg\ArbolBinario\obj\Debug\ArbolBinario.exe
+C:\Users\chris\Desktop\Software\ArbolBinarioExpAlg\ArbolBinario\obj\Debug\ArbolBinario.pdb
